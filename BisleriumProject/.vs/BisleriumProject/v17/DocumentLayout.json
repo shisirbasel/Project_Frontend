@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50B10EFA-3585-4C41-92E4-B10C2E3FE20A}|BisleriumProject\\BisleriumProject.csproj|d:\\islington college\\third year\\application development\\bisleriumproject\\bisleriumproject\\bisleriumproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B10EFA-3585-4C41-92E4-B10C2E3FE20A}|BisleriumProject\\BisleriumProject.csproj|solutionrelative:bisleriumproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B10EFA-3585-4C41-92E4-B10C2E3FE20A}|BisleriumProject\\BisleriumProject.csproj|d:\\islington college\\third year\\application development\\bisleriumproject\\bisleriumproject\\bisleriumproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50B10EFA-3585-4C41-92E4-B10C2E3FE20A}|BisleriumProject\\BisleriumProject.csproj|solutionrelative:bisleriumproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B10EFA-3585-4C41-92E4-B10C2E3FE20A}|BisleriumProject\\BisleriumProject.csproj|d:\\islington college\\third year\\application development\\bisleriumproject\\bisleriumproject\\bisleriumproject\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B10EFA-3585-4C41-92E4-B10C2E3FE20A}|BisleriumProject\\BisleriumProject.csproj|solutionrelative:bisleriumproject\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B10EFA-3585-4C41-92E4-B10C2E3FE20A}|BisleriumProject\\BisleriumProject.csproj|d:\\islington college\\third year\\application development\\bisleriumproject\\bisleriumproject\\bisleriumproject\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B10EFA-3585-4C41-92E4-B10C2E3FE20A}|BisleriumProject\\BisleriumProject.csproj|solutionrelative:bisleriumproject\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD24172-1C80-43E1-B05B-3EB9874210F6}|BisleriumProject.Infrastructures\\BisleriumProject.Infrastructures.csproj|d:\\islington college\\third year\\application development\\bisleriumproject\\bisleriumproject\\bisleriumproject.infrastructures\\services\\blogvoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD24172-1C80-43E1-B05B-3EB9874210F6}|BisleriumProject.Infrastructures\\BisleriumProject.Infrastructures.csproj|solutionrelative:bisleriumproject.infrastructures\\services\\blogvoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD24172-1C80-43E1-B05B-3EB9874210F6}|BisleriumProject.Infrastructures\\BisleriumProject.Infrastructures.csproj|d:\\islington college\\third year\\application development\\bisleriumproject\\bisleriumproject\\bisleriumproject.infrastructures\\services\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD24172-1C80-43E1-B05B-3EB9874210F6}|BisleriumProject.Infrastructures\\BisleriumProject.Infrastructures.csproj|solutionrelative:bisleriumproject.infrastructures\\services\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B396DC3C-E057-4F7A-B71E-BBD727344D88}|BisleriumProject.Domain\\BisleriumProject.Domain.csproj|d:\\islington college\\third year\\application development\\bisleriumproject\\bisleriumproject\\bisleriumproject.domain\\entities\\blogvote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B396DC3C-E057-4F7A-B71E-BBD727344D88}|BisleriumProject.Domain\\BisleriumProject.Domain.csproj|solutionrelative:bisleriumproject.domain\\entities\\blogvote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B10EFA-3585-4C41-92E4-B10C2E3FE20A}|BisleriumProject\\BisleriumProject.csproj|d:\\islington college\\third year\\application development\\bisleriumproject\\bisleriumproject\\bisleriumproject\\controllers\\commentreactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B10EFA-3585-4C41-92E4-B10C2E3FE20A}|BisleriumProject\\BisleriumProject.csproj|solutionrelative:bisleriumproject\\controllers\\commentreactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B10EFA-3585-4C41-92E4-B10C2E3FE20A}|BisleriumProject\\BisleriumProject.csproj|d:\\islington college\\third year\\application development\\bisleriumproject\\bisleriumproject\\bisleriumproject\\controllers\\commentrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B10EFA-3585-4C41-92E4-B10C2E3FE20A}|BisleriumProject\\BisleriumProject.csproj|solutionrelative:bisleriumproject\\controllers\\commentrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B10EFA-3585-4C41-92E4-B10C2E3FE20A}|BisleriumProject\\BisleriumProject.csproj|d:\\islington college\\third year\\application development\\bisleriumproject\\bisleriumproject\\bisleriumproject\\controllers\\blogreactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B10EFA-3585-4C41-92E4-B10C2E3FE20A}|BisleriumProject\\BisleriumProject.csproj|solutionrelative:bisleriumproject\\controllers\\blogreactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B10EFA-3585-4C41-92E4-B10C2E3FE20A}|BisleriumProject\\BisleriumProject.csproj|d:\\islington college\\third year\\application development\\bisleriumproject\\bisleriumproject\\bisleriumproject\\controllers\\blogrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B10EFA-3585-4C41-92E4-B10C2E3FE20A}|BisleriumProject\\BisleriumProject.csproj|solutionrelative:bisleriumproject\\controllers\\blogrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B10EFA-3585-4C41-92E4-B10C2E3FE20A}|BisleriumProject\\BisleriumProject.csproj|d:\\islington college\\third year\\application development\\bisleriumproject\\bisleriumproject\\bisleriumproject\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B10EFA-3585-4C41-92E4-B10C2E3FE20A}|BisleriumProject\\BisleriumProject.csproj|solutionrelative:bisleriumproject\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9009BC-F5B8-499B-90A8-FFDF550AB687}|BisleriumProject.Application\\BisleriumProject.Application.csproj|d:\\islington college\\third year\\application development\\bisleriumproject\\bisleriumproject\\bisleriumproject.application\\dtos\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9009BC-F5B8-499B-90A8-FFDF550AB687}|BisleriumProject.Application\\BisleriumProject.Application.csproj|solutionrelative:bisleriumproject.application\\dtos\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9009BC-F5B8-499B-90A8-FFDF550AB687}|BisleriumProject.Application\\BisleriumProject.Application.csproj|d:\\islington college\\third year\\application development\\bisleriumproject\\bisleriumproject\\bisleriumproject.application\\common\\interface\\iservices\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9009BC-F5B8-499B-90A8-FFDF550AB687}|BisleriumProject.Application\\BisleriumProject.Application.csproj|solutionrelative:bisleriumproject.application\\common\\interface\\iservices\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B396DC3C-E057-4F7A-B71E-BBD727344D88}|BisleriumProject.Domain\\BisleriumProject.Domain.csproj|d:\\islington college\\third year\\application development\\bisleriumproject\\bisleriumproject\\bisleriumproject.domain\\auth\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B396DC3C-E057-4F7A-B71E-BBD727344D88}|BisleriumProject.Domain\\BisleriumProject.Domain.csproj|solutionrelative:bisleriumproject.domain\\auth\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B396DC3C-E057-4F7A-B71E-BBD727344D88}|BisleriumProject.Domain\\BisleriumProject.Domain.csproj|d:\\islington college\\third year\\application development\\bisleriumproject\\bisleriumproject\\bisleriumproject.domain\\auth\\emailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B396DC3C-E057-4F7A-B71E-BBD727344D88}|BisleriumProject.Domain\\BisleriumProject.Domain.csproj|solutionrelative:bisleriumproject.domain\\auth\\emailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD24172-1C80-43E1-B05B-3EB9874210F6}|BisleriumProject.Infrastructures\\BisleriumProject.Infrastructures.csproj|d:\\islington college\\third year\\application development\\bisleriumproject\\bisleriumproject\\bisleriumproject.infrastructures\\migrations\\20240509035614_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD24172-1C80-43E1-B05B-3EB9874210F6}|BisleriumProject.Infrastructures\\BisleriumProject.Infrastructures.csproj|solutionrelative:bisleriumproject.infrastructures\\migrations\\20240509035614_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject\\Program.cs",
+              "RelativeDocumentMoniker": "BisleriumProject\\Program.cs",
+              "ToolTip": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject\\Program.cs",
+              "RelativeToolTip": "BisleriumProject\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T08:40:25.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogVoteService.cs",
+              "DocumentMoniker": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject.Infrastructures\\Services\\BlogVoteService.cs",
+              "RelativeDocumentMoniker": "BisleriumProject.Infrastructures\\Services\\BlogVoteService.cs",
+              "ToolTip": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject.Infrastructures\\Services\\BlogVoteService.cs",
+              "RelativeToolTip": "BisleriumProject.Infrastructures\\Services\\BlogVoteService.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAkwGcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T05:46:18.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogVote.cs",
+              "DocumentMoniker": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject.Domain\\Entities\\BlogVote.cs",
+              "RelativeDocumentMoniker": "BisleriumProject.Domain\\Entities\\BlogVote.cs",
+              "ToolTip": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject.Domain\\Entities\\BlogVote.cs",
+              "RelativeToolTip": "BisleriumProject.Domain\\Entities\\BlogVote.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T05:44:47.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommentReactionController.cs",
+              "DocumentMoniker": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject\\Controllers\\CommentReactionController.cs",
+              "RelativeDocumentMoniker": "BisleriumProject\\Controllers\\CommentReactionController.cs",
+              "ToolTip": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject\\Controllers\\CommentReactionController.cs",
+              "RelativeToolTip": "BisleriumProject\\Controllers\\CommentReactionController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:39:19.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BlogReactionController.cs",
+              "DocumentMoniker": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject\\Controllers\\BlogReactionController.cs",
+              "RelativeDocumentMoniker": "BisleriumProject\\Controllers\\BlogReactionController.cs",
+              "ToolTip": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject\\Controllers\\BlogReactionController.cs",
+              "RelativeToolTip": "BisleriumProject\\Controllers\\BlogReactionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:38:59.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommentRecordsController.cs",
+              "DocumentMoniker": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject\\Controllers\\CommentRecordsController.cs",
+              "RelativeDocumentMoniker": "BisleriumProject\\Controllers\\CommentRecordsController.cs",
+              "ToolTip": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject\\Controllers\\CommentRecordsController.cs",
+              "RelativeToolTip": "BisleriumProject\\Controllers\\CommentRecordsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:38:31.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlogRecordsController.cs",
+              "DocumentMoniker": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject\\Controllers\\BlogRecordsController.cs",
+              "RelativeDocumentMoniker": "BisleriumProject\\Controllers\\BlogRecordsController.cs",
+              "ToolTip": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject\\Controllers\\BlogRecordsController.cs",
+              "RelativeToolTip": "BisleriumProject\\Controllers\\BlogRecordsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:37:52.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminDashboardController.cs",
+              "DocumentMoniker": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject\\Controllers\\AdminDashboardController.cs",
+              "RelativeDocumentMoniker": "BisleriumProject\\Controllers\\AdminDashboardController.cs",
+              "ToolTip": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject\\Controllers\\AdminDashboardController.cs",
+              "RelativeToolTip": "BisleriumProject\\Controllers\\AdminDashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:24:08.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BlogDTO.cs",
+              "DocumentMoniker": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject.Application\\DTOs\\BlogDTO.cs",
+              "RelativeDocumentMoniker": "BisleriumProject.Application\\DTOs\\BlogDTO.cs",
+              "ToolTip": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject.Application\\DTOs\\BlogDTO.cs",
+              "RelativeToolTip": "BisleriumProject.Application\\DTOs\\BlogDTO.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:22:00.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "BisleriumProject\\Controllers\\BlogController.cs",
+              "ToolTip": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "BisleriumProject\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAuwIgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:19:23.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "BisleriumProject\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "BisleriumProject\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAADwv2UAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:19:21.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogService.cs",
+              "DocumentMoniker": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject.Infrastructures\\Services\\BlogService.cs",
+              "RelativeDocumentMoniker": "BisleriumProject.Infrastructures\\Services\\BlogService.cs",
+              "ToolTip": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject.Infrastructures\\Services\\BlogService.cs",
+              "RelativeToolTip": "BisleriumProject.Infrastructures\\Services\\BlogService.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAmwDsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:18:15.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBlogService.cs",
+              "DocumentMoniker": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject.Application\\Common\\Interface\\IServices\\IBlogService.cs",
+              "RelativeDocumentMoniker": "BisleriumProject.Application\\Common\\Interface\\IServices\\IBlogService.cs",
+              "ToolTip": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject.Application\\Common\\Interface\\IServices\\IBlogService.cs",
+              "RelativeToolTip": "BisleriumProject.Application\\Common\\Interface\\IServices\\IBlogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:17:51.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmailConfiguration.cs",
+              "DocumentMoniker": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject.Domain\\Auth\\EmailConfiguration.cs",
+              "RelativeDocumentMoniker": "BisleriumProject.Domain\\Auth\\EmailConfiguration.cs",
+              "ToolTip": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject.Domain\\Auth\\EmailConfiguration.cs",
+              "RelativeToolTip": "BisleriumProject.Domain\\Auth\\EmailConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:03:34.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240509035614_init.cs",
+              "DocumentMoniker": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject.Infrastructures\\Migrations\\20240509035614_init.cs",
+              "RelativeDocumentMoniker": "BisleriumProject.Infrastructures\\Migrations\\20240509035614_init.cs",
+              "ToolTip": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject.Infrastructures\\Migrations\\20240509035614_init.cs",
+              "RelativeToolTip": "BisleriumProject.Infrastructures\\Migrations\\20240509035614_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T03:56:14.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject\\appsettings.json",
+              "RelativeDocumentMoniker": "BisleriumProject\\appsettings.json",
+              "ToolTip": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject\\appsettings.json",
+              "RelativeToolTip": "BisleriumProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T03:55:20.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmailMessage.cs",
+              "DocumentMoniker": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject.Domain\\Auth\\EmailMessage.cs",
+              "RelativeDocumentMoniker": "BisleriumProject.Domain\\Auth\\EmailMessage.cs",
+              "ToolTip": "D:\\Islington College\\Third Year\\Application Development\\BisleriumProject\\BisleriumProject\\BisleriumProject.Domain\\Auth\\EmailMessage.cs",
+              "RelativeToolTip": "BisleriumProject.Domain\\Auth\\EmailMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T03:52:43.501Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

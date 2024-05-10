@@ -1,0 +1,52 @@
+C:\Users\ashwi\Documents\AD\BisleriumProject\BisleriumProject.Application\bin\Debug\net8.0\BisleriumProject.Application.deps.json
+C:\Users\ashwi\Documents\AD\BisleriumProject\BisleriumProject.Application\bin\Debug\net8.0\BisleriumProject.Application.runtimeconfig.json
+C:\Users\ashwi\Documents\AD\BisleriumProject\BisleriumProject.Application\bin\Debug\net8.0\BisleriumProject.Application.dll
+C:\Users\ashwi\Documents\AD\BisleriumProject\BisleriumProject.Application\bin\Debug\net8.0\BisleriumProject.Application.pdb
+C:\Users\ashwi\Documents\AD\BisleriumProject\BisleriumProject.Application\bin\Debug\net8.0\BisleriumProject.Domain.dll
+C:\Users\ashwi\Documents\AD\BisleriumProject\BisleriumProject.Application\bin\Debug\net8.0\BisleriumProject.Domain.pdb
+C:\Users\ashwi\Documents\AD\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.csproj.AssemblyReference.cache
+C:\Users\ashwi\Documents\AD\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashwi\Documents\AD\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.AssemblyInfoInputs.cache
+C:\Users\ashwi\Documents\AD\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.AssemblyInfo.cs
+C:\Users\ashwi\Documents\AD\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\ashwi\Documents\AD\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.csproj.CopyComplete
+C:\Users\ashwi\Documents\AD\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.dll
+C:\Users\ashwi\Documents\AD\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\refint\BisleriumProject.Application.dll
+C:\Users\ashwi\Documents\AD\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.pdb
+C:\Users\ashwi\Documents\AD\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.genruntimeconfig.cache
+C:\Users\ashwi\Documents\AD\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\ref\BisleriumProject.Application.dll
+C:\Users\ashwi\Documents\GitHub\BisleriumGroupProject\BisleriumProject\BisleriumProject.Application\bin\Debug\net8.0\BisleriumProject.Application.deps.json
+C:\Users\ashwi\Documents\GitHub\BisleriumGroupProject\BisleriumProject\BisleriumProject.Application\bin\Debug\net8.0\BisleriumProject.Application.runtimeconfig.json
+C:\Users\ashwi\Documents\GitHub\BisleriumGroupProject\BisleriumProject\BisleriumProject.Application\bin\Debug\net8.0\BisleriumProject.Application.dll
+C:\Users\ashwi\Documents\GitHub\BisleriumGroupProject\BisleriumProject\BisleriumProject.Application\bin\Debug\net8.0\BisleriumProject.Application.pdb
+C:\Users\ashwi\Documents\GitHub\BisleriumGroupProject\BisleriumProject\BisleriumProject.Application\bin\Debug\net8.0\BisleriumProject.Domain.dll
+C:\Users\ashwi\Documents\GitHub\BisleriumGroupProject\BisleriumProject\BisleriumProject.Application\bin\Debug\net8.0\BisleriumProject.Domain.pdb
+C:\Users\ashwi\Documents\GitHub\BisleriumGroupProject\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.csproj.AssemblyReference.cache
+C:\Users\ashwi\Documents\GitHub\BisleriumGroupProject\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashwi\Documents\GitHub\BisleriumGroupProject\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.AssemblyInfoInputs.cache
+C:\Users\ashwi\Documents\GitHub\BisleriumGroupProject\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.AssemblyInfo.cs
+C:\Users\ashwi\Documents\GitHub\BisleriumGroupProject\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\ashwi\Documents\GitHub\BisleriumGroupProject\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.sourcelink.json
+C:\Users\ashwi\Documents\GitHub\BisleriumGroupProject\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.csproj.CopyComplete
+C:\Users\ashwi\Documents\GitHub\BisleriumGroupProject\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.dll
+C:\Users\ashwi\Documents\GitHub\BisleriumGroupProject\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\refint\BisleriumProject.Application.dll
+C:\Users\ashwi\Documents\GitHub\BisleriumGroupProject\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.pdb
+C:\Users\ashwi\Documents\GitHub\BisleriumGroupProject\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.genruntimeconfig.cache
+C:\Users\ashwi\Documents\GitHub\BisleriumGroupProject\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\ref\BisleriumProject.Application.dll
+D:\Islington College\Third Year\Application Development\BisleriumProject\BisleriumProject\BisleriumProject.Application\bin\Debug\net8.0\BisleriumProject.Application.deps.json
+D:\Islington College\Third Year\Application Development\BisleriumProject\BisleriumProject\BisleriumProject.Application\bin\Debug\net8.0\BisleriumProject.Application.runtimeconfig.json
+D:\Islington College\Third Year\Application Development\BisleriumProject\BisleriumProject\BisleriumProject.Application\bin\Debug\net8.0\BisleriumProject.Application.dll
+D:\Islington College\Third Year\Application Development\BisleriumProject\BisleriumProject\BisleriumProject.Application\bin\Debug\net8.0\BisleriumProject.Application.pdb
+D:\Islington College\Third Year\Application Development\BisleriumProject\BisleriumProject\BisleriumProject.Application\bin\Debug\net8.0\BisleriumProject.Domain.dll
+D:\Islington College\Third Year\Application Development\BisleriumProject\BisleriumProject\BisleriumProject.Application\bin\Debug\net8.0\BisleriumProject.Domain.pdb
+D:\Islington College\Third Year\Application Development\BisleriumProject\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.csproj.AssemblyReference.cache
+D:\Islington College\Third Year\Application Development\BisleriumProject\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Islington College\Third Year\Application Development\BisleriumProject\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.AssemblyInfoInputs.cache
+D:\Islington College\Third Year\Application Development\BisleriumProject\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.AssemblyInfo.cs
+D:\Islington College\Third Year\Application Development\BisleriumProject\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.csproj.CoreCompileInputs.cache
+D:\Islington College\Third Year\Application Development\BisleriumProject\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\Bisleriu.8271615B.Up2Date
+D:\Islington College\Third Year\Application Development\BisleriumProject\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.dll
+D:\Islington College\Third Year\Application Development\BisleriumProject\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\refint\BisleriumProject.Application.dll
+D:\Islington College\Third Year\Application Development\BisleriumProject\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.pdb
+D:\Islington College\Third Year\Application Development\BisleriumProject\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\BisleriumProject.Application.genruntimeconfig.cache
+D:\Islington College\Third Year\Application Development\BisleriumProject\BisleriumProject\BisleriumProject.Application\obj\Debug\net8.0\ref\BisleriumProject.Application.dll
